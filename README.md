@@ -1,4 +1,4 @@
-# Mothball copy
+# Mothball copy. 
 A Discord bot for simulating Minecraft movement.
 
 ## Commands
